@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Fawaz!
+- 👀 I’m currently a Software Developer Intern focusing on API Development at SOTI Inc., and a CS student at Queen's University in Kingston, ON.
+- 🌱 I’m currently learning how to create my own REST APIs
+- Please feel free to reach me at fawaz.khalid98@gmail.com
